@@ -3,6 +3,8 @@
 - ls
 - mkdir
 - rmdir
+- clear
+- touch
 - ls -lha
 - nano
 - --help
