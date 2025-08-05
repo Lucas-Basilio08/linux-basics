@@ -16,6 +16,4 @@
 **Resposta:**
 
 - chmod 600 meu_projeto/resumo.txt
-- Enter
 - ls -l
-- Confirmação da alteração
