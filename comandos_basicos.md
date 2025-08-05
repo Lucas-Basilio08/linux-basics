@@ -8,6 +8,10 @@
 - ls -lha
 - nano
 - --help
+- pwd
+- cp
+- alias
+- tree
 - man
 - chmod
 - chown
